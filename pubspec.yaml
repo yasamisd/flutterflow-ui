@@ -79,8 +79,7 @@ dependencies:
 dev_dependencies:
   dependency_validator:
   
-  flutter_test:
-    sdk: flutter
+  flutter_test: ^1.17.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
