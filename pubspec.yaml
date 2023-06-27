@@ -36,7 +36,7 @@ dependencies:
   chewie: 1.2.2
   collection: 1.17.1
   emoji_flag_converter: 1.1.0
-  fl_chart: 0.50.6
+  fl_chart: ^0.55.2
   flutter_credit_card: 2.0.0
   flutter_google_places: 0.3.0
   font_awesome_flutter: ^10.2.1
