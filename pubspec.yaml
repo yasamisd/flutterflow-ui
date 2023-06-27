@@ -73,7 +73,7 @@ dependencies:
   flutter_layout_grid: '>=1.0.1 <2.0.0'
   webview_flutter: '>=2.0.4 <3.0.0'
   chewie_audio: '>=1.2.0 <2.0.0'
-  flutter_svg: '>=0.22.0 <^1.1.6'
+  flutter_svg: '>=0.22.0 <1.1.6'
   numerus: '>=1.1.1 <2.0.0'
 
 dev_dependencies:
